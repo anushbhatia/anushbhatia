@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hi there <img src="https://developers.giphy.com/branch/master/static/confetti-0a96e6d377670579f07fdba955964248.gif" height="30">
 
 <!--
 **anushbhatia/anushbhatia** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
