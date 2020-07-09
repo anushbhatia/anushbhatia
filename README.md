@@ -1,1 +1,1 @@
-<p style="text-align:center"><img src="Intro.gif" width="4000"></p>
+<p align="center"><img width=100% src="Profile_Intro.gif"></p>
